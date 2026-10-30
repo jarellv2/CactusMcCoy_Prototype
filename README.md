@@ -7,11 +7,11 @@
 ## 1. Group Formation & Contributions
 * **Name:** Jarell Igene (Student ID: 100980195)
 * **Role:** Lead Engine Programmer, Systems Architect, & Level Designer
-* **Contribution Percentage:** 100% (Individual Project approved to align with GDW V)
+* **Contribution Percentage:** 100%
 * **Declaration:** I, Jarell Igene, confirm that I completed 100% of the code implementation, native C++ DLL development, Unity scene design, and documentation for this submission.
 
 ### Strategy & Roles
-To maximize development efficiency, I structured this project as an individual vertical slice aligned with my GDW portfolio proposal. My strategy divided the workload into three phases: (1) core physics and Command input, (2) Factory projectile spawning and C++ DLL integration, and (3) Singleton state management. I acted as the sole programmer and designer, utilizing GitHub for version control and modular pattern implementation.
+To maximize development efficiency, I structured this project as an individual vertical slice aligned with my GDW portfolio assignment. My strategy divided the workload into three phases: (1) core physics and Command input, (2) Factory projectile spawning and C++ DLL integration, and (3) Singleton state management. I acted as the sole programmer and designer, utilizing GitHub for version control and modular pattern implementation.
 
 ### Gantt Chart
 ```mermaid
